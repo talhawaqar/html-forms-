@@ -1,93 +1,146 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body{
+body {
   background-color: #eceef1;
 }
 
-.header{
+.header {
   width: 100%;
   height: 10%;
   display: flex;
   justify-content: flex-end;
 }
 
-.nav{
+.nav {
   display: flex;
   justify-content: space-between;
 }
 
-.forget-password{
+.forget-password {
   padding: 10px;
 }
 
-.forget-password h5{
-  color:#505050;
+.forget-password h5 {
+  color: #505050;
   font-size: 12px;
 }
 
-.forget-password span a{
+.forget-password span a {
   font-size: 12px;
   text-decoration: none;
 }
 
-.sign-in-button{
+.sign-in-button {
   padding: 10px;
   margin-right: 15px;
 }
 
-.sign-in-button button{
+.sign-in-button button {
   color: white;
-  background-color: #0077C5;
+  background-color: #0077c5;
   border: solid 1px #4c4c4c;
   border-radius: 4px;
   padding: 7px 10px;
-  font-size: 14px;   
-} 
+  font-size: 14px;
+}
 
-.form-container{
+.form-container {
   max-width: 380px;
   margin: auto;
-  padding-top: 2.5%;    
+  padding-top: 2.5%;
 }
 
-.form-header-text{
+.form-header-text {
   background-color: white;
-  text-align: center; 
+  text-align: center;
 }
 
-.form-header-text h1{
+.form-header-text h1 {
   font-size: 24px;
-  font-family:AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
   color: #4c4c4c;
   padding-top: 10%;
   font-weight: normal;
 }
 
-.form-header-text h4{
+.form-header-text h4 {
   font-size: 14px;
-  font-family:AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
   color: #4c4c4c;
   padding-top: 5%;
   font-weight: normal;
 }
 
-.form-header-text a{
-  font-family:AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+.form-header-text a {
+  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
   text-decoration: none;
   font-size: 12px;
 }
 
-
-.main-form{
+.main-form {
   background-color: white;
 }
 
-.main-form .input-fields label{
-  font-family:AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+.main-form .input-fields label {
+  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
   color: #404040;
   font-size: 14px;
+}
+
+.input-fields {
+  max-width: 100%;
+  padding: 25px;
+}
+
+.input-fields label {
+  display: block;
+  padding-bottom: 10px;
+}
+
+.input-fields input {
+  width: 98%;
+  height: 36px;
+}
+
+.submit-btn {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.submit-btn button {
+  color: white;
+  background-color: #0077c5;
+  border: solid 1px #4c4c4c;
+  border-radius: 4px;
+  padding: 7px 10px;
+  font-size: 14px;
+  height: 42px;
+  width: 82%;
+}
+
+.form-bottom-text {
+  font-size: 12px;
+  color: #757575;
+  background-color: white;
+  padding: 15px 50px 70px 50px;
+  text-align: center;
+}
+
+.form-footer {
+  background-color: #eceef1;
+  font-size: 12px;
+  text-align: center;
+  padding: 22px 18px;
+}
+
+.form-footer h4 {
+  color: #757575;
 }
