@@ -20,11 +20,13 @@ The page tries to replicate as much as possible the actual sign up page of mint.
 
 - Github: [@visva-dev](https://github.com/visva-dev)
 - Linkedin: [@Visvaldas-Rapalis](https://www.linkedin.com/in/visvaldas-rapalis-009797b9/)
+- Twitter: [@Visva_Dev](https://twitter.com/Visva_Dev)
 
 👤 **Author2**
 
 - Github: [@Mupa1](https://github.com/talhawaqar)
 - Linkedin: [@mupa-nzaphila](https://www.linkedin.com/in/talha-waqar-977257145/)
+- Twitter: [@MuhammadTalhaW4](https://twitter.com/MuhammadTalhaW4)
 
 ## 🤝 Contributing
 
