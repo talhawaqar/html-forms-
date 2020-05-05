@@ -29,6 +29,18 @@ body {
   font-size: 12px;
 }
 
+.form-header-text a {
+  font-family:
+    AvenirNext,
+    Avenir,
+    'Helvetica Neue',
+    Helvetica,
+    Arial,
+    sans-serif;
+  text-decoration: none;
+  font-size: 12px;
+}
+
 .forget-password span a {
   font-size: 12px;
   text-decoration: none;
@@ -64,11 +76,13 @@ body {
 
 .form-header-text h1 {
   font-size: 24px;
-  font-family: AvenirNext,
-              Avenir,
-              'Helvetica Neue',
-              Helvetica, Arial,
-              sans-serif;
+  font-family:
+    AvenirNext,
+    Avenir,
+    'Helvetica Neue',
+    Helvetica,
+    Arial,
+    sans-serif;
   color: #4c4c4c;
   padding-top: 10%;
   font-weight: normal;
@@ -76,24 +90,16 @@ body {
 
 .form-header-text h4 {
   font-size: 14px;
-  font-family: AvenirNext,
-              Avenir,
-              'Helvetica Neue',
-              Helvetica, Arial,
-              sans-serif;
+  font-family:
+    AvenirNext,
+    Avenir,
+    'Helvetica Neue',
+    Helvetica,
+    Arial,
+    sans-serif;
   color: #4c4c4c;
   padding-top: 5%;
   font-weight: normal;
-}
-
-.form-header-text a {
-  font-family: AvenirNext,
-              Avenir,
-              'Helvetica Neue',
-              Helvetica, Arial,
-              sans-serif;
-  text-decoration: none;
-  font-size: 12px;
 }
 
 .main-form {
@@ -102,32 +108,26 @@ body {
   border-left: 1px solid rgb(199, 199, 199);
 }
 
-.main-form .input-fields label {
-  font-family: AvenirNext,
-              Avenir,
-              'Helvetica Neue',
-              Helvetica, Arial,
-              sans-serif;
-  color: #404040;
-  font-size: 14px;
-}
-
-.input-fields {
-  font-family: AvenirNext,
-              Avenir,
-              'Helvetica Neue',
-              Helvetica, Arial,
-              sans-serif;
+.main-form .input-fields {
+  font-family:
+    AvenirNext,
+    Avenir,
+    'Helvetica Neue',
+    Helvetica,
+    Arial,
+    sans-serif;
   max-width: 100%;
   padding: 4% 8% 4% 9%;
 }
 
-.input-fields label {
+.main-form .input-fields label {
+  color: #404040;
+  font-size: 14px;
   display: block;
   padding-bottom: 10px;
 }
 
-.input-fields input {
+.main-form .input-fields input {
   width: 98%;
   height: 36px;
 }
@@ -135,12 +135,13 @@ body {
 .phone-note {
   position: relative;
   margin-top: 1%;
-  font-family: AvenirNext,
-               Avenir,
-              'Helvetica Neue',
-              Helvetica,
-              Arial,
-              sans-serif;
+  font-family:
+    AvenirNext,
+    Avenir,
+    'Helvetica Neue',
+    Helvetica,
+    Arial,
+    sans-serif;
   color: #404040;
   font-size: 10px;
 }
@@ -175,6 +176,16 @@ body {
   text-decoration: none;
 }
 
+.form-footer h4 a {
+  text-decoration: none;
+}
+
+.footer .footer-links a {
+  text-decoration: none;
+  font-size: 12px;
+  color: #505050;
+}
+
 .form-bottom-text h4 a:hover {
   text-decoration: underline;
 }
@@ -193,33 +204,23 @@ body {
   color: #757575;
 }
 
-.form-footer h4 a {
-  text-decoration: none;
-}
-
 .form-footer h4 a:hover {
   text-decoration: underline;
 }
 
 .footer {
-  width:100%;
+  width: 100%;
   display: flex;
   color: #757575;
   flex-direction: column;
   align-items: center;
 }
 
-.footer-links {
+.footer .footer-links {
   padding-bottom: 0.5%;
 }
 
-.footer-links a {
-  text-decoration: none;
-  font-size: 12px;
-  color: #505050;
-}
-
-.footer-links a:hover {
+.footer .footer-links a:hover {
   text-decoration: underline;
 }
 
