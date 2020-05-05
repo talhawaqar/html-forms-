@@ -76,14 +76,22 @@ body {
 
 .form-header-text h4 {
   font-size: 14px;
-  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: AvenirNext,
+              Avenir,
+              'Helvetica Neue',
+              Helvetica, Arial,
+              sans-serif;
   color: #4c4c4c;
   padding-top: 5%;
   font-weight: normal;
 }
 
 .form-header-text a {
-  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: AvenirNext,
+              Avenir,
+              'Helvetica Neue',
+              Helvetica, Arial,
+              sans-serif;
   text-decoration: none;
   font-size: 12px;
 }
@@ -95,15 +103,21 @@ body {
 }
 
 .main-form .input-fields label {
-  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial,
-    sans-serif;
+  font-family: AvenirNext,
+              Avenir,
+              'Helvetica Neue',
+              Helvetica, Arial,
+              sans-serif;
   color: #404040;
   font-size: 14px;
 }
 
 .input-fields {
-  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial,
-    sans-serif;
+  font-family: AvenirNext,
+              Avenir,
+              'Helvetica Neue',
+              Helvetica, Arial,
+              sans-serif;
   max-width: 100%;
   padding: 4% 8% 4% 9%;
 }
@@ -121,7 +135,12 @@ body {
 .phone-note {
   position: relative;
   margin-top: 1%;
-  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: AvenirNext,
+               Avenir,
+              'Helvetica Neue',
+              Helvetica,
+              Arial,
+              sans-serif;
   color: #404040;
   font-size: 10px;
 }
