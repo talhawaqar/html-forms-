@@ -64,7 +64,11 @@ body {
 
 .form-header-text h1 {
   font-size: 24px;
-  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: AvenirNext,
+              Avenir,
+              'Helvetica Neue',
+              Helvetica, Arial,
+              sans-serif;
   color: #4c4c4c;
   padding-top: 10%;
   font-weight: normal;
