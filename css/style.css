@@ -57,6 +57,9 @@ body {
 .form-header-text {
   background-color: white;
   text-align: center;
+  border-top: 1px solid rgb(199, 199, 199);
+  border-right: 1px solid rgb(199, 199, 199);
+  border-left: 1px solid rgb(199, 199, 199);
 }
 
 .form-header-text h1 {
@@ -86,6 +89,8 @@ body {
 
 .main-form {
   background-color: white;
+  border-right: 1px solid rgb(199, 199, 199);
+  border-left: 1px solid rgb(199, 199, 199);
 }
 
 .main-form .input-fields label {
@@ -112,11 +117,10 @@ body {
   height: 36px;
 }
 
-.phone-note{
+.phone-note {
   position: relative;
   margin-top: 1%;
-  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial,
-    sans-serif;
+  font-family: AvenirNext, Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #404040;
   font-size: 10px;
 }
@@ -143,13 +147,15 @@ body {
   background-color: white;
   padding: 2% 15% 10% 15%;
   text-align: center;
+  border-right: 1px solid rgb(199, 199, 199);
+  border-left: 1px solid rgb(199, 199, 199);
 }
 
-.form-bottom-text h4 a{
+.form-bottom-text h4 a {
   text-decoration: none;
 }
 
-.form-bottom-text h4 a:hover{
+.form-bottom-text h4 a:hover {
   text-decoration: underline;
 }
 
@@ -158,39 +164,24 @@ body {
   font-size: 12px;
   text-align: center;
   padding: 4% 2%;
+  border-right: 1px solid rgb(199, 199, 199);
+  border-left: 1px solid rgb(199, 199, 199);
+  border-bottom: 1px solid rgb(199, 199, 199);
 }
 
 .form-footer h4 {
   color: #757575;
 }
 
-.form-footer h4 a{
+.form-footer h4 a {
   text-decoration: none;
 }
 
-.form-footer h4 a:hover{
+.form-footer h4 a:hover {
   text-decoration: underline;
 }
 
-
-.form-header-text{
-  border-top: 1px solid rgb(199, 199, 199);
-  border-right: 1px solid rgb(199, 199, 199);
-  border-left: 1px solid rgb(199, 199, 199);
-}
-
-.main-form, .form-bottom-text {
-  border-right: 1px solid rgb(199, 199, 199);
-  border-left: 1px solid rgb(199, 199, 199);
-}
-
-.form-footer{
-  border-right: 1px solid rgb(199, 199, 199);
-  border-left: 1px solid rgb(199, 199, 199);
-  border-bottom: 1px solid rgb(199, 199, 199);
-}
-
-.footer{
+.footer {
   width:100%;
   display:flex;
   color: #757575;
@@ -198,21 +189,21 @@ body {
   align-items: center;
 }
 
-.footer-links{
+.footer-links {
   padding-bottom: 0.5%;
 }
 
-.footer-links a{
+.footer-links a {
   text-decoration: none;
   font-size: 12px;
   color: #505050;
 }
 
-.footer-links a:hover{
+.footer-links a:hover {
   text-decoration: underline;
 }
 
-.footer-text{
+.footer-text {
   text-align: center;
   font-size: 12px;
   padding-bottom: 2%;
