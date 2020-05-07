@@ -12,7 +12,7 @@ The page tries to replicate as much as possible the actual sign up page of mint.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/talhawaqar/html-forms-/930bab8088a362250c401f7476ada57a4761482a/index.html)
+[Live Demo Link](https://rawcdn.githack.com/talhawaqar/html-forms-/f9bcf1e47d7e8e0eab351b42f6bb7fded3eb5e64/index.html)
 
 ## Authors
 
